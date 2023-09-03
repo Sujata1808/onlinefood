@@ -1,2 +1,2 @@
 # onlinefood
-https://github.com/Sujata1808/onlinefood/index.html
+https://sujata1808.github.io/onlinefood/index.html
